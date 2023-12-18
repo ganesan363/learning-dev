@@ -1,1 +1,3 @@
 github demo
+
+the changes in the other file .we have to add and commit and then we have to push now this file is changed
